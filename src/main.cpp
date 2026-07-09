@@ -33,12 +33,12 @@ int main()
     SetTargetFPS(60); 
 
     // Load Textures
-    Texture2D background = LoadTexture("C:\\Users\\Talha\\Desktop\\Flappy Bird\\bg.png");
-    Texture2D birdTexture = LoadTexture("C:\\Users\\Talha\\Desktop\\Flappy Bird\\bird.png");
+    Texture2D background = LoadTexture("assets/bg.png");
+    Texture2D birdTexture = LoadTexture("assets/bird.png");
 
     // AUDIO: Load your sound files (adjust paths if necessary)
-    Sound jumpSound = LoadSound("C:\\Users\\Talha\\Desktop\\Flappy Bird\\jump.wav");
-    Sound crashSound = LoadSound("C:\\Users\\Talha\\Desktop\\Flappy Bird\\Blip.wav");
+    Sound jumpSound = LoadSound("assets/jump.wav");
+    Sound crashSound = LoadSound("assets/Blip.wav");
 
     int score = 0;
     bool isGameOver = false;
@@ -235,9 +235,3 @@ int main()
     CloseWindow();
     return 0;
 }
-
-/*
-
-C:\raylib\w64devkit\bin\g++.exe main.cpp -o flappy.exe -O1 -Wall -I C:\raylib\raylib\src -L C:\raylib\raylib\src -lraylib -lopengl32 -lgdi32 -lwinmm
-
-*/
