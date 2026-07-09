@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.dll
+
+build/
+bin/
+
+.vscode/
+tempCodeRunnerFile.cpp
+desktop.ini
