@@ -1,0 +1,41 @@
+CMakeFiles/FlappyBird.dir/src/main.cpp.o: \
+  C:\Users\Talha\Desktop\Flappy\ Bird\src\main.cpp \
+  C:\Users\Talha\Downloads\raylib-6.0\raylib-6.0\src\raylib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\compat\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_header_macro.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg___gnuc_va_list.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_list.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_arg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg___va_copy.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_copy.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\emscripten.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\em_asm.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\em_js.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\em_macros.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\stdbool.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__config \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__config_site \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__configuration\abi.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__configuration\compiler.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__configuration\platform.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__configuration\availability.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__configuration\language.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\stdbool.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdbool.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\em_types.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\promise.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\compat\stdlib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\stdlib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdlib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\features.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\bits\alltypes.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\alloca.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__math\abs.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__type_traits\enable_if.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__type_traits\is_integral.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__type_traits\integral_constant.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\c++\v1\__type_traits\remove_cv.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\version.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\emscripten\wget.h

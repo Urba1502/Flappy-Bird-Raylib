@@ -1,0 +1,28 @@
+raylib_build/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
+  C:\Users\Talha\Downloads\raylib-6.0\raylib-6.0\src\rshapes.c \
+  C:\Users\Talha\Downloads\raylib-6.0\raylib-6.0\src\raylib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\compat\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdarg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_header_macro.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg___gnuc_va_list.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_list.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_arg.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg___va_copy.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__stdarg_va_copy.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\stdbool.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdbool.h \
+  C:\Users\Talha\Downloads\raylib-6.0\raylib-6.0\src\config.h \
+  C:\Users\Talha\Downloads\raylib-6.0\raylib-6.0\src\rlgl.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\compat\math.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\math.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\features.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\bits\alltypes.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\float.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\float.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__float_header_macro.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__float_float.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\lib\clang\23\include\__float_infinity_nan.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\compat\stdlib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\stdlib.h \
+  C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\cache\sysroot\include\alloca.h

@@ -1,0 +1,1 @@
+C:\Users\Talha\Downloads\emsdk-6.0.2\emsdk-6.0.2\upstream\emscripten\em++.exe --preload-file "C:/Users/Talha/Desktop/Flappy Bird/assets@assets" -sUSE_GLFW=3 -sEXPORTED_RUNTIME_METHODS=ccall @CMakeFiles\FlappyBird.dir\objects1.rsp -o FlappyBird.html @CMakeFiles\FlappyBird.dir\linkLibs.rsp

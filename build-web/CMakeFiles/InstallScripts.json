@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Talha/Desktop/Flappy Bird/build-web/cmake_install.cmake",
+		"C:/Users/Talha/Desktop/Flappy Bird/build-web/raylib_build/cmake_install.cmake",
+		"C:/Users/Talha/Desktop/Flappy Bird/build-web/raylib_build/raylib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
